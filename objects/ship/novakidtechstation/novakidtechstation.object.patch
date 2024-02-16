@@ -1,0 +1,12 @@
+[
+    [
+        { "op" : "test", "path" : "/turnInQuests", "inverse" : true },
+        { "op" : "add", "path" : "/turnInQuests", "value" : [ ] }
+    ],
+    [
+        { "op" : "replace", "path" : "/offeredQuests/0", "value" : "sr_driverepair" },
+        { "op" : "add", "path" : "/offeredQuests/-", "value" : "sr_gaterepair" },
+
+        { "op" : "add", "path" : "/turnInQuests/-", "value" : "sr_driverepair" }
+    ]
+]

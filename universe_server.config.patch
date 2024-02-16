@@ -1,0 +1,3 @@
+[
+  { "op" : "add", "path" : "/findStarterWorldParameters/requiredSystemWorlds/-", "value" : { "floatingDungeon" : "ancientgateway" } }
+]

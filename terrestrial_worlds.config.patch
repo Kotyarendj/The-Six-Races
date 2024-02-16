@@ -1,0 +1,11 @@
+[
+    { "op" : "remove", "path" : "/planetTypes/garden/layers/surface/dungeons/1" },
+
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "apexcity" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "avianvillage" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "floranhutvillage" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "glitchvillage" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "hylotlcity" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "humancamp" ] },
+    { "op" : "add", "path" : "/planetTypes/garden/layers/surface/dungeons/-", "value" : [ 1.0, "novakidvillage" ] }
+]

@@ -1,0 +1,8 @@
+{
+  "itemName" : "sr_stlcore",
+  "rarity" : "Essential",
+  "category" : "upgradeComponent",
+  "inventoryIcon" : "sr_stlcore.png",
+  "description" : "An essential component in modern day ships, used to control and power STL (Slower Than Light) systems.",
+  "shortdescription" : "STL Core"
+}

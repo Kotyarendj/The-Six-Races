@@ -1,0 +1,9 @@
+[
+    { "op" : "add", "path" : "/outpost_mission6/actions/-", "value" : {
+            "type" : "placeDungeon",
+            "dungeonId" : "sr_outpost_ancientgateway",
+            "targetInstance" : "outpost",
+            "targetPosition" : [ 109, 661 ]
+        } 
+    }
+]

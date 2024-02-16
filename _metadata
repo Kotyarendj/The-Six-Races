@@ -1,0 +1,10 @@
+{
+  "author" : "JamesTheMaker",
+  "description" : "[b]I have a Discord! Join it here [url=https://discord.gg/jQJqkg3VCK]here[/url]![/b]\n\nThe Six Races is a work-in-progress complete story overhaul mod. By the end of development, the goal is to have The Six Races turn the Starbound main questline from something short and niche to a long, interesting and enjoyable experience. At the present moment, the mod only overhauls the intro: the Getting Started quest and everything else leading up to the Erchius Mining Facility quest. However, stay tuned as there is lots more to come!\n\n[h3]I need help though![/h3]\nThis project is not something I can do alone. If I am to fulfill my vision and bring this mod to full fruition, I'm going to need people who are willing to help me complete The Six Races. I need:\n[list]\n    [*][b]Sprite artists[/b] who can sprite in the vanilla style\n    [*][b]Builders/mappers[/b] who have at least a rudimentary knowledge of Tiled\n    [*][b]Story writers[/b] who have at least a rudimentary knowledge of the lore\n[/list]\nIf you are interesting in assisting me, join the Discord linked at the top of this page, find #the-six-races channel and ping me with how you would like to contribute to the mod.",
+  "friendlyName" : "The Six Races (BETA)",
+  "link" : "steam://url/CommunityFilePage/3161784851",
+  "name" : "sixraces",
+  "steamContentId" : "3161784851",
+  "tags" : "NPCs and Creatures|Quests|Dungeons",
+  "version" : "0.1"
+}
