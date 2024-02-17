@@ -1,0 +1,8 @@
+[
+    { "op" : "replace", "path" : "/systemTypes/White/orbitRegions/3/planetaryTypes/0/weight", "value" : 0.8 },
+
+    { "op" : "remove", "path" : "/systemTypes/Orange/orbitRegions/3/planetaryTypes/0" },
+    { "op" : "remove", "path" : "/systemTypes/Yellow/orbitRegions/3/planetaryTypes/0" },
+    { "op" : "remove", "path" : "/systemTypes/Blue/orbitRegions/3/planetaryTypes/0" },
+    { "op" : "remove", "path" : "/systemTypes/Red/orbitRegions/3/planetaryTypes/0" }
+]
