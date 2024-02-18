@@ -17,7 +17,7 @@ function init()
     return storage.active == true
   end)
 
-  self.isOutpostGate = world.type() == "ancientgateway"
+  self.isOutpostGate = world.type() ~= config.getParameter("sr_OutpostWorld", "outpost")
 
   self.vaultActiveTime = config.getParameter("vaultActiveTime", 60)
   self.vaultInstanceOptions = config.getParameter("vaultInstanceOptions")
@@ -63,7 +63,6 @@ function init()
 end
 
 function onInteraction()
-  sb.logInfo("The world type is: %s", world.type())
   if self.isOutpostGate then
     if not storage.active then
       return {config.getParameter("inactiveInteractAction"), config.getParameter("inactiveInteractData")}
